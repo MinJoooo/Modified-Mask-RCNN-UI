@@ -10,7 +10,7 @@ This code is the UI of the 'Modified-Mask-RCNN'.<br>
 <br>
 본 코드는 제가 Mask R-CNN 코드를 용이하게 사용하기 위하여<br>
 각기 다른 용도에 맞게 수정한 코드와<br>
-프로젝트 발표를 위해 만든 모델 시연 UI에 대한 코드입니다.
+프로젝트 발표를 위해 만든 모델 시연 UI에 대한 코드입니다.<br>
 <br>
 <br>
 #### 프로그램 구성도<br>
