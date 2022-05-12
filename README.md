@@ -25,6 +25,3 @@ This code is the UI of the 'Modified-Mask-RCNN'.<br>
 #### Mask R-CNN 모델 구조<br>
 <img src="/images/image04.png" width="450"><br>
 <br>
-<br>
-#### 모델 시연을 위한 발표 UI<br>
-<img src="/images/image05.png" width="450"><br>
