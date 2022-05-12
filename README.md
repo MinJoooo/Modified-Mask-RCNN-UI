@@ -14,17 +14,17 @@ This code is the UI of the 'Modified-Mask-RCNN'.<br>
 <br>
 <br>
 #### 프로그램 구성도<br>
-<img src="/images/image01.png" width="700"><br>
+<img src="/images/image01.png" width="600"><br>
 <br>
 <br>
 #### 학습 프로세스<br>
-<img src="/images/image02.png" width="700"><br>
-<img src="/images/image03.png" width="500"><br>
+<img src="/images/image02.png" width="600"><br>
+<img src="/images/image03.png" width="450"><br>
 <br>
 <br>
 #### Mask R-CNN 모델 구조<br>
-<img src="/images/image04.png" width="500"><br>
+<img src="/images/image04.png" width="450"><br>
 <br>
 <br>
 #### 모델 시연을 위한 발표 UI<br>
-<img src="/images/image05.png" width="500"><br>
+<img src="/images/image05.png" width="450"><br>
